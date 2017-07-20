@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Your Tasks</string>
+    <string name="menu_title">Choose Category</string>
+    <string-array name="category">
+        <item>Finance</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Family</item>
+    </string-array>
+    <string-array name="Allcategory">
+        <item>All</item>
+        <item>Finance</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Family</item>
+    </string-array>
+</resources>
